@@ -1,3 +1,5 @@
+# README ASAL BUAT <3
+
 # T4n-Manpy (VUR Helper)
 
 T4n-Manpy adalah tool CLI yang berfungsi sebagai helper untuk mengelola paket dari VUR (Void User Repo). Tool ini mempermudah proses instalasi, pembaruan, penghapusan, hingga pembuatan dan pengiriman paket ke repositori komunitas.
